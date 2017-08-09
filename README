@@ -1,0 +1,34 @@
+This is a micro-packaged version of GhostScript which is only designed to 
+support PostScript or OXPS to PDF conversion. 
+It is intended to be used for automatic downloads/terminal based installations of ghostscript. 
+(The same is already performed for every linux package distribtion, this one is for Windows)
+
+This remix from the installer is under the same license as GhostScript/GhostscripXPS since nothing 
+was added only removed because the GhostScript Installer is so ugly. 
+This one is a sleek ZIP.
+Copyright notices and license files have been kept - sourcecode links are provided in this document. 
+
+GhostScript is licensed under AGPL or under a commercial license. Licensing is handled by Artifex Software Inc. see: http://artifex.com/licensing/
+
+Ghostscript is an interpreter for PostScript™ and Portable Document Format (PDF) files. It is available both under the GNU GPL Affero license and for commercial licensing from Artifex. It has been under active development for over 20 years and has been ported to many different systems during this time.
+
+Ghostscript consists of a PostScript interpreter layer, and a graphics library. Sometimes the Ghostscript graphics library is confusingly also referred to simply as Ghostscript. Even more confusingly, sometimes people say Ghostscript when they really mean GhostPDL.
+
+Binaries for Ghostscript for various systems can be downloaded from www.ghostscript.com/download. The source code is included in both the Ghostscript and GhostPDL downloads from the same site. 
+
+==============================================
+Remix performed 2017-07 by connected-health.eu
+v1.0 - based on gs9.20 and gsxps9.20/9.21
+==============================================
+
+GITHUB RELEASES OF GHOSTSCRIPT:
+https://github.com/ArtifexSoftware/ghostpdl-downloads
+
+DOCUMENTATION:
+https://ghostscript.com/doc/9.21/Readme.htm
+
+GHOSTSCRIPT XPS:
+https://www.ghostscript.com/download/gxpsdnld.html
+
+GHOSTSCRIPT SOURCECODE:
+http://git.ghostscript.com/?p=ghostpdl.git;a=summary
