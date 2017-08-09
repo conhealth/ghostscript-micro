@@ -5,7 +5,7 @@ It is intended to be used for automatic downloads/terminal based installations o
 
 This remix from the installer is under the same license as GhostScript/GhostscripXPS since nothing 
 was added only removed because the GhostScript Installer is so ugly. 
-This one is a sleek ZIP.
+This one is a sleek cab.gz file. (CAB and GZ because those are available on most target systems)
 Copyright notices and license files have been kept - sourcecode links are provided in this document. 
 
 GhostScript is licensed under AGPL or under a commercial license. Licensing is handled by Artifex Software Inc. see: http://artifex.com/licensing/
